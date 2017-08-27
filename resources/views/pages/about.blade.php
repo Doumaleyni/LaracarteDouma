@@ -2,8 +2,7 @@
 
 @section('content')
 
-	<div class="container">
-
+<div class="container">
 		<h1>What is {{config('app.name')}}?</h1>
 		<p>{{config('app.name')}} is a clone app of <a href="https://laramap.com" target="_blank"> Laramap.com</a>.</p>
 
